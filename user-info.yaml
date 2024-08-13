@@ -1,0 +1,17 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  tags:
+    - this will work
+    - will?
+  name: backtest
+  description: backtracking through tests
+  links:
+    - url: https://github.com/shukilagama/backtest
+      title: Github Repo
+      icon: gitlab
+spec:
+  type: blog
+  lifecycle: fritata
+  owner: team-a
+  system: repos
