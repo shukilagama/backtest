@@ -3,7 +3,7 @@ kind: Component
 metadata:
   tags:
     - this
-    - will?
+    - will
   name: backtest
   description: backtracking through tests
   links:
