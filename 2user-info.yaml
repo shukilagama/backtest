@@ -2,8 +2,8 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   tags:
-    - this
-    - will
+    - Tag1-1
+    - backstage-tag
   name: backtest
   description: backtracking through tests
   links:
